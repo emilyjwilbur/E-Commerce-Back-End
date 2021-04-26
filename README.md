@@ -32,7 +32,7 @@ To connect to the database run ```mysql -u root -p``` and enter password from .e
 ## Demo 
 
 
-
+Walkthrough video demonstrating creating schema and seeding database from command line and demonstrating GET, POST, PUT and DELETE routes for Categories, Products and Tags in Insomnia Core: https://drive.google.com/file/d/1KdQ-VhIrRa8nBBJbbw9uSTRcd5PqAJej/view?usp=sharing
 
 
 
