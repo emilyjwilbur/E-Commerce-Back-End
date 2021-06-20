@@ -15,10 +15,6 @@ This project is the creation of the back end for an e-commerce site. This applic
 
 
 
-## The Process:
-- Rewatched class videos and referred to activities, especially mini project
-- Referred to documentation
-- google
 
 ## Installation:
 Run the following commands;
